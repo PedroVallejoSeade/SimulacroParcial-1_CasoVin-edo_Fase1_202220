@@ -1,0 +1,28 @@
+El archivo contiene los siguientes atributos:
+
+- acidezTotal: La acidez es la característica de los vinos que determina gran parte del
+equilibrio gustativo. Representa la cantidad de gramos de ácido tartárico por litro.
+- acidezVolatil:El ácido acético, a veces llamado acidez volátil, puede ser producido por varias levaduras y bacterias presentes en el vino. Esto puede proporcionar al vino un olor desagradable y sabor a “picado” arruinando la producción.
+- acidoCitrico: el ácido cítrico se encuentra solo en cantidades muy pequeñas en las uvas de vino. Los enólogos pueden utilizar estos suplementos económicos en la acidificación para aumentar la acidez total del vino.
+- azucaresResiduales: Cantidad total de azúcar que queda en el vino que no ha sido fermentada por las levaduras
+- cloruros: representan la salinidad del suelo. Aporta al sabor salado de un vino que en exceso puede desviar a los consumidores potenciales. 
+- dioxidoLibreSulfuro: parámetro para la preservación del vino de las alteraciones oxidantes y de algunos microorganismo.
+- TotalDioxidoSulfurico: Aditivo en el vino, con propiedades antioxidantes. Esta propiedad evita la modificación del color propio de un vino y lo blinda ante cualquier ataque de microorganismos.
+- densidad: La densidad es la relación entre la masa volúmica de un vino o mosto y la del agua a cierta temperatura, por ejemplo 20 °C
+- pH: Medida de la acidez o alcalinidad del suelo o de las uva en viticultura. El viticultor puede controlar el pH del suelo y corregirlo mediante prácticas de cultivo.
+- Sulfitos: Llamado también Anhidrido sulfuroso. Antioxidante que protege al vino durante su comercialización. Es un alérgeno que hay que declarar en la etiqueta del vino.
+- nivelCalidad: variable categórica que representa el nivel de calidad asignado al vino. Los valores varían desde 1 (peor) hasta 10 (mejor). Esta variable fue asignada por los expertos.
+- GrdAlcohol: Grado de alcohol, corresponde a uno de los factores más importantes para conservar las propiedades del vino; aunque no condiciona la calidad, si influye en el equilibrio percibido a nivel sensorial.
+- tipoVino: Tipo de Vino - Blanco o Tinto. 
+- calificacionCalidad: calificación de calidad dada al vino por parte de los expertos, con base en parámetros fisicoquímicos. Esta calificalificación es una variable continua que se utiliza como base para definir el nivel de calidad del vino.
+
+
+--------------- Aclaraciones
+* El nivel de calidad se calcula utilizando la calificación de calidad dada por los expertos.
+* Se consideran vinos de buena calidad los que tienen un nivel de calidad mayor a 5.
+* El pH de la mayoría de los vinos se encuentra en el intervalo de 2,8 a 4
+* Un vino con un pH de 2,8 es extremadamente ácido mientras que uno con un pH en torno a 4 es plano, carente de acidez. 
+* El pH de los vinos blancos debe estar entre 3 y 3,3 y los tintos entre 3,3 y 3,6
+* Las cifras de Acidez Total expresan mayor acidez cuanto mayores son, pero, las cifras de pH expresan mayor acidez cuanto menores son sus valores.
+ 
+
